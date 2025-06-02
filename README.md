@@ -56,3 +56,9 @@ report.pdf – Summary report with statistical insights
 sales_report.pdf – Complete tabular report of all data
 *Conclusion:*
 This task helped me understand how to automate the process of report creation using Python. I learned how to generate a dataset, analyze it using pandas, and then turn it into a professional PDF report using reportlab. It made me realize how useful automation can be for saving time and improving accuracy in reporting tasks. This was a great learning experience in data handling, formatting, and generating useful reports in real-time scenarios.
+
+##OUTPUT
+
+[sales_report.pdf](https://github.com/user-attachments/files/20550929/sales_report.pdf)
+
+![Image](https://github.com/user-attachments/assets/f3ea719b-72c7-44c2-8225-1b1712608858)
