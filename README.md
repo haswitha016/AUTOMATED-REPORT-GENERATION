@@ -66,8 +66,11 @@ The PDF includes:
 
 **Deliverables:**
  Task-2.py – Python script for automating report generation
+ 
  data.csv – Input dataset containing sample sales data
+ 
  report.pdf – Summary report with statistical insights
+ 
  sales_report.pdf – Complete tabular report of all data
 
 **Conclusion:**
