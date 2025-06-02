@@ -14,7 +14,7 @@
 
 ##**DESCRIPTION OF MY TASK(AUTOMATED-REPORT-GENERATION)**
 
-    This task focuses on developing hands-on experience in *automating business reporting* using Python. It is designed to help interns learn how to process structured data, analyze it, and create a professional report in PDF format. Through this task, I was introduced to working with data stored in CSV files, performing statistical analysis using pandas, and then generating a readable and formatted report using the reportlab library. This kind of automation can be very useful in real-world applications like sales reporting, analytics, or business performance tracking.
+    This task focuses on developing hands-on experience in automating business reporting using Python. It is designed to help us learn how to process structured data, analyze it, and create a professional report in PDF format. Through this task, I was introduced to working with data stored in CSV files, performing statistical analysis using pandas, and then generating a readable and formatted report using the reportlab library. This kind of automation can be very useful in real-world applications like sales reporting, analytics, or business performance tracking.
 
 #**Objective:**
 The main goal of this task is to build a Python script that performs three main functions:
